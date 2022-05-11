@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RMP2</string>
+    <string name="close_button">Just a simple close button</string>
+    <string name="greeting_text">войти или зарегистрироваться</string>
+    <string name="greeting_info_text">Мы отправим на номер SMS - сообщение с кодом подтверждения</string>
+    <string name="number_mask">+7(___)___-__-__</string>
+    <string name="get_code">получить код</string>
+    <string name="access_with_rules">При входе вы соглашаетесь с условиями</string>
+
+    <string name="button">button</string>
+    <string name="xml_layout">xml layout</string>
+
+    <string name="username">FIRSTNAME SECONDNAME</string>
+    <string name="comment">Comment without any meaning</string>
+    <string name="passangers">Котлинмобил заботиться\nо своих пассажирах</string>
+    <string name="Edit_text">Edit text</string>
+    <string name="edit_text">Edit text</string>
+    <string name="check_box_text">blablabla</string>
+    <string name="raiting_bar">just simple raiting bar</string>
+    <string name="another_comment">another meaningless comment</string>
+</resources>
